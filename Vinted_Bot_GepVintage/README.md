@@ -184,6 +184,4 @@ gepvintage/
 - Automatisierung kann gegen die Vinted-Nutzungsbedingungen verstoßen. Nutzung auf eigenes Risiko.
 - **`.env` nicht committen** (Token).
 
-## Lizenz
 
-Keine Lizenzdatei im Repo — Nutzung nach deinen Vorgaben festlegen.
